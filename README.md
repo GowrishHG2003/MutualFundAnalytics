@@ -691,7 +691,7 @@ bluestock_mf_capstone/
 Clone the repository:
 
 ```bash
-git clone <https://github.com/GowrishHG2003>
+git clone https://github.com/GowrishHG2003
 cd bluestock_mf_capstone
 ```
 
